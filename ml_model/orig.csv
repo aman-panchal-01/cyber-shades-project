@@ -1,0 +1,41 @@
+Student ID,Age,Gender,Socio-Economic Status,Parental Education Level,Residential Area,Previous Year Grades,Current Year Grades,Course Failures,Subject-Specific Scores,Total Days Absent,Unexcused Absences,Tardiness,Disciplinary Actions,Behavioral Notes,Engagement Score,Parent-Teacher Meetings Attended,Parental Support,Extracurricular Participation,Number of Activities,Activity Type,Peer Influence Score,Bullying Incidents,Health Issues,Mental Health Support,Sleep Patterns (hours),Commute Time (minutes),Mode of Transportation,Dropout Status,Scholarship Status,Financial Hardships
+S001,15,Male,Low,High School,Urban,75,70,0,80,5,2,3,0,4,85,2,High,Yes,2,Sports,75,0,No,No,7,30,Bus,0,Yes,No
+S002,16,Female,Middle,College,Urban,85,88,0,90,2,1,1,1,3,90,3,Medium,Yes,3,Arts,80,0,No,Yes,8,25,Walk,0,No,Yes
+S003,15,Male,High,College,Rural,65,62,1,60,8,5,4,2,2,60,1,Low,No,0,None,60,2,Yes,Yes,6,40,Bike,1,No,Yes
+S004,14,Female,Middle,High School,Suburban,78,80,0,85,3,1,2,0,4,88,2,High,Yes,2,Sports,77,0,No,No,7,20,Walk,0,Yes,No
+S005,17,Male,Low,Primary,Rural,55,52,2,55,12,8,5,3,1,55,0,Low,No,0,None,55,3,Yes,Yes,5,45,Bus,1,No,Yes
+S006,16,Female,High,Graduate,Urban,90,93,0,95,1,0,0,0,5,95,3,High,Yes,4,Sports,88,0,No,No,8,15,Car,0,Yes,No
+S007,15,Male,Middle,Graduate,Suburban,82,79,1,83,6,3,3,1,3,80,2,Medium,Yes,3,Arts,79,1,No,No,7,25,Walk,0,No,Yes
+S008,16,Female,Low,High School,Rural,60,58,1,61,10,7,6,2,2,65,1,Low,No,0,None,65,2,Yes,Yes,6,35,Bike,1,No,Yes
+S009,17,Male,High,College,Urban,88,85,0,92,2,0,1,0,4,85,3,High,Yes,3,Sports,85,0,No,No,8,15,Car,0,Yes,No
+S010,14,Female,Middle,Primary,Suburban,50,49,3,45,15,10,8,4,1,45,0,Low,No,0,None,50,4,Yes,Yes,5,50,Bus,1,No,Yes
+S011,15,Male,Low,Graduate,Urban,77,74,0,78,4,2,2,1,4,78,2,High,Yes,2,Sports,78,0,No,No,7,30,Bus,0,Yes,No
+S012,16,Female,High,High School,Rural,84,87,0,88,3,1,2,0,3,88,3,Medium,Yes,3,Arts,82,0,No,Yes,8,20,Walk,0,No,Yes
+S013,17,Male,Middle,College,Suburban,69,66,1,65,7,4,3,2,2,67,1,Low,No,0,None,67,2,Yes,Yes,6,40,Bike,1,No,Yes
+S014,14,Female,Low,Graduate,Urban,72,75,0,70,5,2,1,1,4,75,2,High,Yes,2,Sports,74,0,No,No,7,25,Walk,0,Yes,No
+S015,15,Male,Middle,Primary,Urban,67,63,1,64,8,6,4,2,3,63,2,Medium,Yes,3,Arts,63,1,No,Yes,6,30,Bus,0,No,Yes
+S016,16,Female,High,High School,Rural,91,92,0,94,1,0,0,0,5,94,3,High,Yes,4,Sports,90,0,No,No,8,15,Car,0,Yes,No
+S017,17,Male,Middle,College,Suburban,81,78,0,82,3,1,2,0,4,78,2,Medium,Yes,2,Sports,80,0,No,No,7,25,Walk,0,No,Yes
+S018,14,Female,Low,Graduate,Urban,59,57,2,58,9,4,4,3,2,63,1,Low,No,0,None,62,3,Yes,Yes,6,35,Bike,1,No,Yes
+S019,15,Male,High,High School,Rural,89,86,0,91,2,0,1,0,5,91,3,High,Yes,3,Arts,87,0,No,Yes,8,20,Walk,0,Yes,No
+S020,16,Female,Middle,College,Suburban,73,70,1,75,6,3,3,1,4,77,2,Medium,Yes,2,Sports,77,1,No,No,7,30,Bus,0,No,Yes
+S021,17,Male,Low,High School,Urban,65,62,1,64,8,6,5,2,3,62,1,Medium,No,1,None,63,2,Yes,Yes,6,40,Bus,1,No,Yes
+S022,14,Female,High,Graduate,Suburban,92,94,0,96,1,0,0,0,5,96,3,High,Yes,4,Sports,92,0,No,No,8,20,Car,0,Yes,No
+S023,16,Male,Middle,College,Rural,75,72,1,74,5,3,3,1,4,74,2,Medium,Yes,2,Arts,74,0,No,No,7,35,Bike,0,No,Yes
+S024,15,Female,Low,High School,Urban,57,55,2,56,10,7,6,3,2,58,1,Low,No,0,None,60,2,Yes,Yes,6,30,Bus,1,No,Yes
+S025,17,Male,High,Graduate,Suburban,88,85,0,90,2,0,1,0,4,85,3,High,Yes,3,Sports,84,0,No,No,8,25,Walk,0,Yes,No
+S026,16,Female,Middle,College,Rural,82,80,1,81,4,2,2,1,3,82,2,Medium,Yes,2,Arts,81,0,No,Yes,7,30,Bike,0,No,Yes
+S027,14,Male,Low,High School,Urban,50,48,3,45,14,9,8,4,1,47,0,Low,No,0,None,49,3,Yes,Yes,5,50,Bus,1,No,Yes
+S028,15,Female,High,Graduate,Suburban,89,92,0,93,1,0,0,0,5,93,3,High,Yes,4,Sports,90,0,No,No,8,20,Car,0,Yes,No
+S029,16,Male,Middle,College,Rural,70,68,1,69,7,4,4,2,2,68,1,Low,No,0,None,68,2,Yes,Yes,6,40,Bike,1,No,Yes
+S030,17,Female,Low,High School,Urban,60,57,2,58,9,5,5,3,3,59,1,Medium,No,1,None,61,2,Yes,Yes,6,30,Bus,1,No,Yes
+S031,15,Male,High,Graduate,Suburban,85,88,0,89,2,0,1,0,4,89,3,High,Yes,3,Sports,87,0,No,No,8,20,Walk,0,Yes,No
+S032,16,Female,Middle,College,Rural,78,75,1,76,5,3,3,1,4,75,2,Medium,Yes,2,Arts,75,0,No,No,7,35,Bike,0,No,Yes
+S033,17,Male,Low,High School,Urban,55,52,2,54,12,7,6,3,1,52,0,Low,No,0,None,54,3,Yes,Yes,5,50,Bus,1,No,Yes
+S034,14,Female,High,Graduate,Suburban,90,93,0,94,1,0,0,0,5,94,3,High,Yes,4,Sports,92,0,No,No,8,20,Car,0,Yes,No
+S035,16,Male,Middle,College,Rural,74,71,1,72,6,4,4,2,2,71,1,Low,No,0,None,72,2,Yes,Yes,6,40,Bike,1,No,Yes
+S036,17,Female,Low,High School,Urban,62,59,2,60,8,5,5,3,3,61,1,Medium,No,1,None,62,2,Yes,Yes,6,30,Bus,1,No,Yes
+S037,15,Male,High,Graduate,Suburban,87,90,0,91,1,0,1,0,4,91,3,High,Yes,3,Sports,89,0,No,No,8,20,Walk,0,Yes,No
+S038,16,Female,Middle,College,Rural,79,76,1,78,5,3,3,1,4,78,2,Medium,Yes,2,Arts,77,0,No,No,7,35,Bike,0,No,Yes
+S039,14,Male,Low,High School,Urban,53,50,3,49,13,8,7,4,1,50,0,Low,No,0,None,51,3,Yes,Yes,5,50,Bus,1,No,Yes
+S040,17,Female,High,Graduate,Suburban,93,96,0,97,0,0,0,0,5,97,3,High,Yes,4,Sports,95,0,No,No,8,20,Car,0,Yes,No
