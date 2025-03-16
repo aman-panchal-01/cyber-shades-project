@@ -1,0 +1,142 @@
+[
+  {
+    "fullName": "Alice Johnson",
+    "dob": "1995-05-14",
+    "email": "alice.johnson@example.com",
+    "phone": "1234567890",
+    "password": "password123"
+  },
+  {
+    "fullName": "Bob Smith",
+    "dob": "1990-09-23",
+    "email": "bob.smith@example.com",
+    "phone": "9876543210",
+    "password": "qwerty456"
+  },
+  {
+    "fullName": "Charlie Davis",
+    "dob": "1988-02-11",
+    "email": "charlie.davis@example.com",
+    "phone": "5647382910",
+    "password": "abcde789"
+  },
+  {
+    "fullName": "Diana Ross",
+    "dob": "2000-12-01",
+    "email": "diana.ross@example.com",
+    "phone": "1122334455",
+    "password": "secure123"
+  },
+  {
+    "fullName": "Ethan Hunt",
+    "dob": "1998-03-22",
+    "email": "ethan.hunt@example.com",
+    "phone": "4455667788",
+    "password": "mi567890"
+  },
+  {
+    "fullName": "Fiona Carter",
+    "dob": "2001-06-15",
+    "email": "fiona.carter@example.com",
+    "phone": "6677889900",
+    "password": "hunter123"
+  },
+  {
+    "fullName": "George Miller",
+    "dob": "1993-07-19",
+    "email": "george.miller@example.com",
+    "phone": "7788990011",
+    "password": "matrix789"
+  },
+  {
+    "fullName": "Hannah Moore",
+    "dob": "1997-11-05",
+    "email": "hannah.moore@example.com",
+    "phone": "9900112233",
+    "password": "password456"
+  },
+  {
+    "fullName": "Ivan Peterson",
+    "dob": "1995-04-30",
+    "email": "ivan.peterson@example.com",
+    "phone": "1231231234",
+    "password": "ivan123"
+  },
+  {
+    "fullName": "Jenna Taylor",
+    "dob": "1992-08-14",
+    "email": "jenna.taylor@example.com",
+    "phone": "3213213210",
+    "password": "jenna456"
+  },
+  {
+    "fullName": "Kevin Adams",
+    "dob": "1999-01-25",
+    "email": "kevin.adams@example.com",
+    "phone": "4564564567",
+    "password": "kevin789"
+  },
+  {
+    "fullName": "Laura Wright",
+    "dob": "2003-10-09",
+    "email": "laura.wright@example.com",
+    "phone": "6546546543",
+    "password": "laura123"
+  },
+  {
+    "fullName": "Michael Brown",
+    "dob": "1990-12-15",
+    "email": "michael.brown@example.com",
+    "phone": "7897897890",
+    "password": "michael456"
+  },
+  {
+    "fullName": "Nina Clark",
+    "dob": "1994-03-29",
+    "email": "nina.clark@example.com",
+    "phone": "9879879871",
+    "password": "nina789"
+  },
+  {
+    "fullName": "Oscar Lee",
+    "dob": "2000-05-10",
+    "email": "oscar.lee@example.com",
+    "phone": "4561237890",
+    "password": "oscar123"
+  },
+  {
+    "fullName": "Paula Green",
+    "dob": "1996-07-22",
+    "email": "paula.green@example.com",
+    "phone": "7896541230",
+    "password": "paula456"
+  },
+  {
+    "fullName": "Quinn Parker",
+    "dob": "1998-02-08",
+    "email": "quinn.parker@example.com",
+    "phone": "6541237890",
+    "password": "quinn789"
+  },
+  {
+    "fullName": "Rachel Evans",
+    "dob": "1993-11-13",
+    "email": "rachel.evans@example.com",
+    "phone": "3217896540",
+    "password": "rachel123"
+  },
+  {
+    "fullName": "Steven White",
+    "dob": "1987-09-17",
+    "email": "steven.white@example.com",
+    "phone": "1239876540",
+    "password": "steven456"
+  },
+  {
+    "fullName": "Tina Brooks",
+    "dob": "2002-01-03",
+    "email": "tina.brooks@example.com",
+    "phone": "9871234560",
+    "password": "tina789"
+  }
+]

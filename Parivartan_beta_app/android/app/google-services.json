@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "604372960262",
+    "project_id": "parivartan-cf299",
+    "storage_bucket": "parivartan-cf299.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604372960262:android:63b2fac6243f7eeeae2f87",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdO81qJ-4H3rBfaKdcqff2Y-rMLQ5GTeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604372960262:android:0b68d8a7ac6fd516ae2f87",
+        "android_client_info": {
+          "package_name": "com.example.untitled3.parivartan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdO81qJ-4H3rBfaKdcqff2Y-rMLQ5GTeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
